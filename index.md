@@ -8,8 +8,8 @@
    
 > #### 直播源接口 
 >   
-> 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`  
-> 自用2 `https://cdn.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
+> 自用1 `https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt`  
+> 自用2 `https://cdn.jsdelivr.net/gh/wekh/tvshow@main/APTV.txt`   
 > 肥羊BESTV `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`   
 > 肥羊GHYX `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u`   
 > 肥羊SXG `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u`   
@@ -53,8 +53,8 @@
 > [影视 Github站](https://github.com/FongMi/TV/releases){:target="_blank"}  
 
 > <font color=red>TVBox接口</font>   
-> 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
-> 自用2 `https://cdn.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
+> 自用1 `https://jihulab.com/wekh/tvshow/-/raw/main/tvbox.json`  
+> 自用2 `https://cdn.jsdelivr.net/gh/wekh/tvshow@main/tvbox.json`  
 > 云星家庭 `http://itvbox.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
