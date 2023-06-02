@@ -50,7 +50,7 @@
 > TVBox空壳软件  
 > 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
 > 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TV](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  [如意TV](https://wwf.lanzoub.com/b0esg6fwh){:target="_blank"} 密码`ruyi`   
-> [影视 Github站](https://github.com/FongMi/TV/releases){:target="_blank"}  
+> [影视TV](https://xhdwc.tk/){:target="_blank"}  [网盘下载](https://www.123pan.com/s/5EKcVv-GmP8v){:target="_blank"}  
 
 > <font color=red>TVBox接口</font>   
 > 自用1 `https://jihulab.com/wekh/tvshow/-/raw/main/tvbox.json`  
