@@ -11,7 +11,8 @@
 > 自用1 `https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt`  
 > 自用2 `https://cdn.jsdelivr.net/gh/wekh/tvshow@main/APTV.txt`   
 > 肥羊BESTV `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`   
-> 肥羊GHYX `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u`   
+> 肥羊GHYX `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u`  
+> 肥羊CQYX `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u`  
 > 肥羊SXG `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u`   
 > 肥羊爱尚 `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u`   
 > 4K/8K源 `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u`   
