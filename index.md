@@ -60,7 +60,7 @@
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
 > 云星仓库 `https://itvbox.cc/可视TV/云星日记/仓库.json`  
-> 饭太硬 `http://饭太硬.ga/tv`  
+> 饭太硬 `http://饭太硬.top/tv`  
 > 肥猫 `http://我不是.肥猫.love:63/接口禁止贩卖`  
 
 ## **查询IP，链接生成**
